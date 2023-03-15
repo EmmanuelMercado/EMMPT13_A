@@ -1,0 +1,8 @@
+Computer Science
+-Facilitar la complejidad de las cosas.
+-Todo se tiene que traducir a 0 y 1 para que la computadora pueda entender.
+-Criptografía- Toma la palabra, lo transforma a letras y números para mayor seguridad.
+-Estrcutura de datos- como organizo la información.
+-Nodos- Puntos unidos mediante la información.
+-Algortimos- Pasos a seguir para obtener algo.
+
